@@ -1,0 +1,1 @@
+https://air-quality-india.streamlit.app/?embed_options=show_footer,dark_theme,show_padding,disable_scrolling,show_toolbar,light_theme,show_colored_line
